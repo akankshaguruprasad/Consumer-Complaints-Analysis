@@ -1,4 +1,4 @@
-# Consumer-Complaints-Analysis
+# Consumer Complaints Analysis
 The dataset consists of complaints logged by consumers about financial products and services to companies for response. Data from those complaints help us understand the financial marketplace and protect consumers.
 Other than the Consumer complaint dataset, the other dataset that could give useful information is:
 1. Census Data for US population
